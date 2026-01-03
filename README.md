@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @saifahmed34<br>👀 I’m interested in building Web App using Dotnet<br>🌱 I’m currently learning (Backend .net)<br>💬 Ask me about ,C#<br>⚡ Fun fact
+👋 Hi, I’m @saifahmed34<br>👀 I’m interested in building Web App using Dotnet<br>🌱 I’m currently learning (Backend .net)<br>💬 Ask me about C#<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
